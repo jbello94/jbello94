@@ -13,14 +13,14 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 #### Learning now
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 <a href="#">
