@@ -24,7 +24,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jbello94&count_private=false&show_icons=true&include_all_commits=false" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jbello94&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbello94&layout=compact" />
