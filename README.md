@@ -1,5 +1,16 @@
-## Hi there 👋
+## Bienvenid@ 👋
+Soy Jorge, desarrollador junior Full Stack, pero con gran tendencia al backend. Graduado como Lic. en Educación en la especialidad Matemática-Física
 
+### Sobre mi
+Durante mi carrera fui partícipe de la Competencia Latinoamericana de Programación (ICPC), como matemático adjunto a los programadores, lo cual despertó en mí la motivación por adentrarme en este mundo de la programación.
+
+Trabajé casi 3 años en DGIGA (pequeña compañía de desarrollo de software web, hosting y alojamiento en Cuba), donde desarrollé aplicaciones web a medida para negocios, incluyendo una agencia de taxis y una aplicación de delivery y mensajería, así como la página del negocio y un software contable para la propia compañía. Durante mi tiempo en la empresa, trabajé con tecnologías como PHP, MySQL, Laravel, Python y Postgres.
+
+Mi formación en educación me ha dotado de habilidades para la comunicación efectiva y la capacidad de explicar conceptos complejos de manera clara y accesible. En el ámbito del desarrollo web, he realizado tareas de desarrollo y mantenimiento de aplicaciones, asegurando la calidad y escalabilidad de los productos.
+
+Mi objetivo es unirme a un equipo dinámico donde pueda aplicar mis conocimientos y seguir creciendo profesionalmente. Busco oportunidades para colaborar en proyectos desafiantes y contribuir con mis habilidades en desarrollo web.
+
+Estoy disponible para entrevistas y colaboraciones. No dudes en contactarme a través de mi correo electrónico: coque0912@gmail.com.
 
 ![Codewars](https://www.codewars.com/users/jbello94/badges/micro)
 
